@@ -5,29 +5,29 @@
 
 ###Technologies Used
 
- Javascript
- HTML5 Canvas
- JQuery
+-Javascript
+-HTML5 Canvas
+-JQuery
 
 ###Finished
 
- Created map
- Animate ants
+-Created map
+-Animate ants
 	+ Queen ant (big ant)
 	+ Normal ant
- Select and move ants
+-Select and move ants
 	+ Left click to select ant
 	+ Right click to move ant
- Underground
+-Underground
 	+ Underground map consists of all dirt with tunnels
 	+ Can create a nest populated with 4 larva
 	+ Create tunnel to the underground by doubleclicking
 	+ Ants can create tunnels (currently deactivated)
- Ant AI
+-Ant AI
 	+ A- star implemented to let them navigate around obsticles
 	+ Ants will randomaly move about the map on their own
 	+ Move diagonally when appropriate
- Canvas Optimiziation
+-Canvas Optimiziation
 	+ Use background canvas for static entities like dirt, rocks, and grass (does not refresh)
 	+ Use foreground canvas for moving entites like ants and food (refreshes at 60FPS)
 
