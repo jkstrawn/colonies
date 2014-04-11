@@ -52,7 +52,6 @@
 + Add in other types of insects you can play as.
 	- Termites
 	- Fire ants
-	- 
 
 + More complex AI
 
