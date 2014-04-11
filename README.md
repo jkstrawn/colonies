@@ -32,31 +32,31 @@
 	+ Use foreground canvas for moving entites like ants and food (refreshes at 60FPS)
 
 
-###To- Do
+### To-Do
 
-Scrolling map
-Create more underground buildings
-Create ant types
-Ant UI to gather food
-Let queen create larva
-Create resource UI
-Set larva type (worker, nurse, soldier)
-Randomly create food on the map
-Create enemy colony and AI
++ Scrolling map
++ Create more underground buildings
++ Create ant types
++ Ant UI to gather food
++ Let queen create larva
++ Create resource UI
++ Set larva type (worker, nurse, soldier)
++ Randomly create food on the map
++ Create enemy colony and AI
 
-###Ideas
+### Ideas
 
-More than just the two colonies in one patch (map) 
-	+ maybe don't even make it patches, instead make it one large world map and you can spread out new colonies
++ More than just the two colonies in one patch (map) 
+	- maybe don't even make it patches, instead make it one large world map and you can spread out new colonies
 
-Add in other types of insects you can play as.
++ Add in other types of insects you can play as.
 	- Termites
 	- Fire ants
 	- 
 
-More complex AI
++ More complex AI
 
-More dangerous insects/random events
++ More dangerous insects/random events
 	- Rain, snow, hail
 	- Spider attack
 	- Magnifying glass attack
@@ -66,22 +66,22 @@ More dangerous insects/random events
 	- Birds
 	
 
-Switch between different ants (soldier, worker, queen, princess)
++ Switch between different ants (soldier, worker, queen, princess)
 
-Maybe ant levels up longer he lives
++ Maybe ant levels up longer he lives
 
-Buy new ant skills for your colony/ant
++ Buy new ant skills for your colony/ant
 
-More complex pheromone trails
++ More complex pheromone trails
 	- Pheromone patch for guarding
 	- Path to food
 	- Path to opposing nest
 	- Patrol path
 	- Attack path
 
-Have to have a larger nest made for a larger colony
++ Have to have a larger nest made for a larger colony
 
-Structures
++ Structures
 	- Nursery
 	- Kitchen
 	- Tunnels
@@ -93,10 +93,10 @@ Structures
 	- Midden Room
 
 	- Outside
-		- bridges -  leaves +  ants
-		- roads
+		+ bridges, leaves, ants
+		+ roads
 
-Ant Roles
++ Ant Roles
 	- Forager
 	- Soldier
 	- Midwifes
@@ -106,16 +106,16 @@ Ant Roles
 	- Janitors
 	
 
-Resources
++ Resources
 	- Sugar
 	- Ant Supply
 	- Undigested Food
 
-Aphid Farm
++ Aphid Farm
 	- Move to sweeter parts of plant
 	- Move aphids under leaves when rain is coming
 
-Prey
++ Prey
 	- Slugs
 		+ Remove slim with dirt
 	- Moths
@@ -125,21 +125,21 @@ Prey
 	- Termites
 		+ Find single, or mound
 
-Wood ants harvest dried resin -  white chunks
++ Wood ants harvest dried resin -  white chunks
 	- distributes resin throughout the nest and when they walk on the resin,
 	- the medicinal qualities of the resin disinfects the ants
 
-Natural Disasters
++ Natural Disasters
 	- Rain
 	- Wind
 	- Beetle Attacks
 
-Queen produces eggs
++ Queen produces eggs
 	- set rate for egg production -  higher rate = more sugar
 	- ants take the eggs to the nurseries
 	- nurse ants take care of the eggs
 
-Nursery
++ Nursery
 	- set hatch rate for eggs
 		+ higher hatch speed
 			- requires more sugar
